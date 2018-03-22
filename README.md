@@ -1,5 +1,5 @@
 # Intro-to-Data-Science-Machine-Learning
-Making machine learning models from scratch (python) as part of my MSc Bioinformatics course.
+Data science intro and machine learning intro from scratch in python) as part of my MSc Bioinformatics course.
 
 Assignment:
 - 1: Data mining and visualization.
